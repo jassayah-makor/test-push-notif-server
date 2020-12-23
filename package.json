@@ -1,0 +1,23 @@
+{
+  "name": "test-push-notif-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jassayah-makor/test-push-notif-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jassayah-makor/test-push-notif-server/issues"
+  },
+  "homepage": "https://github.com/jassayah-makor/test-push-notif-server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^9.4.2"
+  }
+}
